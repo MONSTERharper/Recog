@@ -1,6 +1,6 @@
 # WORK IN PROGRESS
 ## Recoginition
-First Attempt
+First Attempt at facial recognition system.
 
 ##For the dataset after the split, I will be attching a Drive link.
 
